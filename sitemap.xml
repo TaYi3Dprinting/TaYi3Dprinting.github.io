@@ -2,44 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tayi3dprinting.github.io/</loc>
+    <lastmod>2025-08-18</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tayi3dprinting.github.io/AboutUs.html</loc>
+    <lastmod>2025-08-18</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tayi3dprinting.github.io/Contact.html</loc>
+    <lastmod>2025-08-18</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tayi3dprinting.github.io/medical.html</loc>
+    <lastmod>2025-08-18</lastmod>
     <priority>0.6</priority>
   </url>
-    <url>
+  <url>
     <loc>https://tayi3dprinting.github.io/3dmetal.html</loc>
+    <lastmod>2025-08-18</lastmod>
     <priority>0.6</priority>
   </url>
-    <url>
+  <url>
     <loc>https://tayi3dprinting.github.io/vacuum.html</loc>
+    <lastmod>2025-08-18</lastmod>
     <priority>0.6</priority>
   </url>
-    <url>
+  <url>
     <loc>https://tayi3dprinting.github.io/sculpture.html</loc>
+    <lastmod>2025-08-18</lastmod>
     <priority>0.6</priority>
   </url>
-    <url>
+  <url>
     <loc>https://tayi3dprinting.github.io/figure.html</loc>
+    <lastmod>2025-08-18</lastmod>
     <priority>0.6</priority>
   </url>
-    <url>
+  <url>
     <loc>https://tayi3dprinting.github.io/automobile.html</loc>
+    <lastmod>2025-08-18</lastmod>
     <priority>0.6</priority>
   </url>
-    <url>
+  <url>
     <loc>https://tayi3dprinting.github.io/appliance.html</loc>
+    <lastmod>2025-08-18</lastmod>
     <priority>0.6</priority>
   </url>
-  
-  <!-- 其他頁面 -->
 </urlset>
